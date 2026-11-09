@@ -12,6 +12,13 @@
 
 This repository contains the robot code for FTC Team 24578's inaugural CENTERSTAGE season.
 
+## What the Code Does
+
+The Java code controls Team 24578’s CENTERSTAGE robot in both phases of a match.
+
+- **Autonomous:** Four routines let the robot run without driver input from front or back starting positions on either the red or blue alliance.
+- **Driver-Controlled (TeleOp):** Two gamepads control the drivetrain, arm, wrist, grippers, and drone launcher.
+  
 ## Competition Results
 
 | Competition | Result |
