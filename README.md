@@ -1,5 +1,11 @@
 # FTC Team 24578 | CENTERSTAGE
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/91f9b605-b6bf-4276-bc87-6f70fa5fd656" width="700" alt="CENTERSTAGE match screen showing Team 24578 Aztecs on Alliance 3 for Semifinal 2, Match 1" />
+  <br />
+  <em>Team 24578 Aztecs · CENTERSTAGE Regional Semifinals</em>
+</p>
+
 **Azusa High School · Azusa, California**  
 **2023–2024 FIRST Tech Challenge Season**  
 **October 2023 – May 2024**
@@ -11,12 +17,6 @@ This repository contains the robot code for FTC Team 24578's inaugural CENTERSTA
 | Competition | Result |
 | --- | --- |
 | FIRST Tech Challenge Regional | Semifinalist — Top 5 of 32 teams |
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/91f9b605-b6bf-4276-bc87-6f70fa5fd656" width="700" alt="CENTERSTAGE match screen showing Team 24578 Aztecs on Alliance 3 for Semifinal 2, Match 1" />
-  <br />
-  <em>Team 24578 Aztecs · CENTERSTAGE Regional Semifinals</em>
-</p>
 
 ## Founding the Team
 
