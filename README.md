@@ -12,7 +12,11 @@ This repository contains the robot code for FTC Team 24578's inaugural CENTERSTA
 | --- | --- |
 | FIRST Tech Challenge Regional | Semifinalist — Top 5 of 32 teams |
 
-<img width="800" height="575" alt="image" src="https://github.com/user-attachments/assets/91f9b605-b6bf-4276-bc87-6f70fa5fd656" />
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/91f9b605-b6bf-4276-bc87-6f70fa5fd656" width="700" alt="CENTERSTAGE match screen showing Team 24578 Aztecs on Alliance 3 for Semifinal 2, Match 1" />
+  <br />
+  <em>Team 24578 Aztecs · CENTERSTAGE Regional Semifinals</em>
+</p>
 
 ## Founding the Team
 
