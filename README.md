@@ -28,3 +28,12 @@ This repository contains the robot code for FTC Team 24578's inaugural CENTERSTA
 
 Thank you to our 16 founding team members and to the Azusa High School teachers and district administrators who helped launch and run the program. It truly was an honor to spearhead Robotics @ Azusa High School and to fuel my passion for engineering through leadership and collaboration. 
 I genuinely loved seeing our CENTERSTAGE Robot compete against various teams across California, seeing it to its end of season, and all the funny moments where the robot broke down last second but we didn't let that stop us.
+
+## Season Photos
+
+<p align="center">
+  <img src="./1000049844.jpg" width="240" alt="Team 24578 gathered around a laptop at their competition pit table" />
+  <img src="./1000049846.jpg" width="405" alt="Team 24578 posing with their CENTERSTAGE robot" />
+  <br />
+  <em>At the competition pit table (left) and with our CENTERSTAGE robot (right).</em>
+</p>
