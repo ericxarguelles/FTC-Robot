@@ -1,4 +1,4 @@
-# FTC Team 24578 | CENTERSTAGE
+# FTC Team 24578 | CENTERSTAGE AZTECS
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/91f9b605-b6bf-4276-bc87-6f70fa5fd656" width="700" alt="CENTERSTAGE match screen showing Team 24578 Aztecs on Alliance 3 for Semifinal 2, Match 1" />
